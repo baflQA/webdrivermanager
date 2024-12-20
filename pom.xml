@@ -19,7 +19,7 @@
         <selenium.version>4.27.0</selenium.version>
 
         <!-- test -->
-        <logback.version>1.5.13</logback.version>
+        <logback.version>1.5.14</logback.version>
         <junit.version>5.11.4</junit.version>
         <assertj.version>3.26.3</assertj.version>
         <mockserver.version>5.15.0</mockserver.version>
