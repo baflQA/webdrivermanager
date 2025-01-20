@@ -21,7 +21,7 @@
         <!-- test -->
         <logback.version>1.5.15</logback.version>
         <junit.version>5.11.4</junit.version>
-        <assertj.version>3.27.2</assertj.version>
+        <assertj.version>3.27.3</assertj.version>
         <mockserver.version>5.15.0</mockserver.version>
 
         <!-- plugins -->
