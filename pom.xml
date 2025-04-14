@@ -15,7 +15,7 @@
         <httpclient5.version>5.4.3</httpclient5.version>
 
         <!-- provided -->
-        <javalin.version>6.5.0</javalin.version>
+        <javalin.version>6.6.0</javalin.version>
         <selenium.version>4.31.0</selenium.version>
 
         <!-- test -->
