@@ -22,7 +22,7 @@
         <logback.version>1.5.32</logback.version>
         <junit.version>6.1.0</junit.version>
         <assertj.version>3.27.7</assertj.version>
-        <mockserver.version>6.0.0</mockserver.version>
+        <mockserver.version>6.1.0</mockserver.version>
 
         <!-- plugins -->
         <maven-release-plugin.version>3.3.1</maven-release-plugin.version>
